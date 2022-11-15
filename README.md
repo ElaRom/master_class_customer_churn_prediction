@@ -1,2 +1,2 @@
 # Master Class listopad_2022
-Zadanie konkursowe dotyczące predykcji odejścia klientów.
+A competition task regarding the prediction of customer churn.
